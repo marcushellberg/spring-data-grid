@@ -7,6 +7,11 @@ Video tutorials:
 * [Simple grid with a list](https://youtu.be/tVt_5sawzpU)
 * [Paging grid](https://youtu.be/9jhB9vL7KMM)
 
+## Used technologies
+
+* Spring Boot 3
+* Vaadin Flow 24
+
 ## Requirements
 
 * Java 17 or newer
